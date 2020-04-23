@@ -1,5 +1,5 @@
-## Welcome to "Hello World" with GitHub Actions
+## Nothing to see here
 
-This course will walk you through writing your first action and using it with a workflow file. 
+We're using this repo to test how GitHub Actions might affect the security of Mozilla products developed on GitHub.
 
-**Ready to get started? Navigate to the first issue.**
+Any findings will be published in the normal places, and we'll probably delete this repo.
